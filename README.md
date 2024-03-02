@@ -1,3 +1,6 @@
+# One INFo I Have to Give I Store current_question_id as a STRING
+
+
 # Quiz bot
 This is a basic version of an interactive quiz bot that engages users in quizzes, evaluates their responses, and provides a final score based on their answers. In this we use Django channels websocket communication, redis as message broker, and Django sessions for temporary data storage.
 
